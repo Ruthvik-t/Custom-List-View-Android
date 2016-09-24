@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+   <string-array name="titles">
+       <item>Rose</item>
+       <item>Ruthvik</item>
+   </string-array>
+
+    <string-array name="descriptions">
+        <item>This is a flower</item>
+        <item>He is a student</item>
+    </string-array>
+</resources>
